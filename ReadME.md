@@ -23,9 +23,9 @@
 - postgrossql
 - Oracle
 - VCS(Source code management) 
-      - Distributed VCS
-      - Remote(central) VCS
-      - Github
+   - Distributed VCS
+   - Remote(central) VCS
+   - Github
 
 ### Git
 
@@ -40,32 +40,31 @@
 - push the code into github
 ### HTML5
 - Hyper Text Markup Language
-- Semantic Elements
-      - header
-      - section
-      - article
-      - aside
-      - footer
-      - table
+- Semantic Elements 
+  - header
+  - section
+  - article
+  - aside
+  - footer
+  - table
 
 - Block Level Elements
-      - h1 to h6
-      - div
-      - all semantic elements
-      - Text will start from new line
+    - h1 to h6
+    - div
+    - all semantic elements
+    - Text will start from new line
 - Inline Elements
-
-      - span
-      - img
-      - a
-      - nav
-      - form
-      - input
-      - text area
-      - legend
-      - sup
-      - sub
-      - ul
-      - ol
+   - span
+   - img
+   - a
+   - nav
+   - form
+   - input
+   - text area
+   - legend
+   - sup
+   - sub
+   - ul
+   - ol
 #### Reference links
 - [FlatIcon]
