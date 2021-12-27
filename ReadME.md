@@ -6,10 +6,10 @@
 - Angular Framework
 ### Back End Technologies
 - Node.js
-      - express.js
-      - nodemoon
-      - cors
-      - dotenv
+   - express.js
+   - nodemoon
+   - cors
+   - dotenv
 - java
 - Python
 - PHP
