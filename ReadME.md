@@ -26,7 +26,10 @@
       - Distributed VCS
       - Remote(central) VCS
       - Github
+
 ### Git
+
+
 - git init
 - git add filename
 - git add filename1 filename2
@@ -51,6 +54,7 @@
       - all semantic elements
       - Text will start from new line
 - Inline Elements
+
       - span
       - img
       - a
@@ -61,3 +65,7 @@
       - legend
       - sup
       - sub
+      - ul
+      - ol
+#### Reference links
+- [FlatIcon]
