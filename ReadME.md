@@ -118,7 +118,30 @@ selector{
    - padding : 10px 300px 50px(10 for bottom, 300 for left and right, 50 for bottom)
    - padding : 10px 30px 4px 5px(top,right,bottom,left)
 + width
-- 1rem:16px
+- 1rem:
+
+#### Responsive Web Design
+
+#### Flex-box
++ display
+   -flex
+      -flex wrap
+      -justify-content
+      - flex-direction
+      - flex-flow
+   - none
+   - inline
+   - block
+   - inline-block
++ position
+   - static
+   - relative
+   - absolute
+   - fixed
+   - sticky
++ align-content
++ align-files
++ align-self
 
 
 #### Reference links
