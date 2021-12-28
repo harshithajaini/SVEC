@@ -66,5 +66,61 @@
    - sub
    - ul
    - ol
+Task :
+=====
+- Audio
+- Video
+- canvas
+- progress
+- datalist
+- meter
+- select
+
+### CSS
++ Cascading Style Sheets
++ Types of CSS
+   - Inline CSS
+   - External CSS
+   - Internal CSS
++ Syntax of CSS
+
+'''
+selector{
+    css properties
+}
+'''
+
+### Selectors
++ Simple Selectors
+   - Class Selector (.)
+   - Grouping Selector (,)
+   - By Element Name
+   - id Selector
+
++ Combinators
+   + Universal Selector 
+   + Descendant selector ( )
+   + Child Selector (>)
+   + Adjacent Sibling Selctor (+)
+   + General Selector (~)
+
++ Pseudo Selectors
++ Pseudo element selector
++ Attribute Selector
+
+
+### Box Model
++ margin
++ border
++ padding(ClockWise)
+   - padding : 10px (for all adjacent sides)
+   - padding : 10px 30px (10 for bottom,30 for left and right)
+   - padding : 10px 300px 50px(10 for bottom, 300 for left and right, 50 for bottom)
+   - padding : 10px 30px 4px 5px(top,right,bottom,left)
++ width
+- 1rem:16px
+
+
 #### Reference links
 - [FlatIcon]
+- []

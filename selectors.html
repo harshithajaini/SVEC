@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selectors</title>
+    <style>
+        /* div +p{
+            background-color: rgb(20, 220, 87);
+            color: white;
+        }
+
+          div >h4{
+            color: tomato;
+            background-color: turquoise; 
+        } 
+         div>h4{
+             font-size: 50px; 
+            color: yellowgreen;
+            background-color: teal;
+        }
+
+        div ~p{
+            font-weight: bolder;
+        } */
+        p::first-letter{
+            font-style: italic;
+            background-color: thistle;
+        }
+    
+        
+    </style>
+</head>
+<body>
+    <div>
+        <p>Paragraph1</p>
+        <p>Paragraph2</p>
+        <div>
+            <p>Paragraph3</p>
+            <h4>Hi</h4>
+            <h4>HII</h4>
+        </div>
+        <p>Paragraph</p>
+        <!-- <section>
+            <p>Paragraph4</p>
+            <p>Paragraph4</p>
+            <p>Paragraph4</p>
+        </section>
+        <h5>Heading5</h5> -->
+        <p>Paragraph5</p>
+        <p>Paragraph6</p>
+        <div>
+            <p>Paragraph</p>
+            <h5>heading5</h5>
+            <h4>Hello</h4>
+        </div>
+        <h4>HELLO</h4>
+    </div>
+    <p>Paragraph</p>
+</body>
+</html>
