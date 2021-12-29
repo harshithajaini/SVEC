@@ -143,7 +143,78 @@ selector{
 + align-files
 + align-self
 
+### Media Queries
+- Extra small devices (Mobile)
+   - max-with:600px
+- small devices (Large phones)
+   - min-width:600px
+- medium devices (Small laptops)
+   - min-width:768px
+- Large devices (Large laptops or desktops)
+   - min-width:992px
+- Extra large devices ()
+   - min-width:1200px
+
+
+''' 
+@media only screen(min-width:320px) and (max-width:500px){
+   CSS code
+}
+'''
+
+### Bootstrap  4.6
+
+- It is a CSS framework
+- module (collection of functions)
+- package (collection of modules)
+- library (collection of packages)
+- framework (collection of libraries)
+   + module --> package --> library --> framework
+   + Type of modes
+      - online
+         - CDN links
+      - offline
++ background-color - bg
++ text-white
++ Margin in bootstrap (m-* (0-5))
+   - 0 --> 0rem
+   - 1 --> 0.25rem
+   - 2 --> 0.5rem
+   - 3 --> 1rem
+   - 4 --> 1.5rem
+   - 5 --> 3 rem
+   - ml-5 (margin-left)
+   - m (margin in all directions)
+   - mt (margin-top)
+   - mb
+   - mr
++ Padding (padding-left --> pl-5)
+
++ colors
+   - primary
+   - secondary
+   - info
+   - success
+   - warning
+   - danger
+   - light
+   - dark
+   - white
++ We can use color buttons for 
+   - Buttons (btn-primary)
+   - text (text - white)
+   - secondary (bg-secondary)
+   - alert (alert alert-primary)
+
+
+
+
+
+### Animations
+
+
 
 #### Reference links
 - [FlatIcon]
-- []
+- [color codes]()
+- [contrast color]()

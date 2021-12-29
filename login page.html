@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>::loginpage::</title>
+  <style>
+        *{
+            background-color: white;
+        }
+        h1{
+            text-align: center;
+        }
+        input{
+        width: 50%;
+        margin: 8px 0;
+        padding: 12px 12px;
+        display: inline-block;
+        border: 2px solid green;
+        border-radius: 20px;
+      
+
+        }
+        .main{
+            border:3px solid white;
+            background-color: rgb(126, 124, 120);
+            /* width: 20%; */
+            /* vertical-align: 20rem; */
+            /* align-content: ; */
+            width: 30%;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: violet;
+            border-style: dotted;
+        }
+        button {
+            background-color: rgb(38, 253, 242);
+            padding: 5px;
+            margin: 10px 0px;
+            width: 40%;
+            border-radius: 4px;
+            font-size: 20px;
+            font-style: italic;
+            font-weight: 700;
+        }
+        button:hover{
+            background-color: blue;
+            color: white;
+           
+        }
+        label{
+            font-style: italic;
+            font-weight: bold;
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+  <h1>STUDENT LOGIN FORM</h1>
+  <form class="main"> <label for="username">Username:</label>
+   <input type="text" name="user" id="username" placeholder="Enter username" required>
+   <br> <label for="email">Email:</label>
+   <input type="email" name="email" id="email" placeholder="Enter email address" required>
+   <br> <label for="password">Password:</label>
+   <input type="password" name="password" id="password" placeholder="Enter password" required>
+   <br>
+    <!-- <a href="./Registration page.html"><button type="submit">LOGIN</button></a> -->
+    <button><a href="./Registration page.html">LOGIN</a></button>
+  </form>
+</body>
+</html>
+
