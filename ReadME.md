@@ -66,6 +66,8 @@
    - sub
    - ul
    - ol
+
+
 Task :
 =====
 - Audio
@@ -118,7 +120,7 @@ selector{
    - padding : 10px 300px 50px(10 for bottom, 300 for left and right, 50 for bottom)
    - padding : 10px 30px 4px 5px(top,right,bottom,left)
 + width
-- 1rem:
+- 1rem:16px
 
 #### Responsive Web Design
 
@@ -206,6 +208,12 @@ selector{
    - secondary (bg-secondary)
    - alert (alert alert-primary)
 
++ Grid System
+   -    col-sm-12
+   - sm (small devices >=576)
+   - md (medium devices >=768)
+   - lg (large devices >=992)
+   - xl (Extra large devices >=1140)
 
 
 
@@ -218,3 +226,4 @@ selector{
 - [FlatIcon]
 - [color codes]()
 - [contrast color]()
+- [getbootstrap](getbootstrap.com)
