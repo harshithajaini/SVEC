@@ -282,6 +282,71 @@ selector{
 
 + Destructuring of arrays
 
++ Functions
+
+   - Functon with functionname
+   ```
+   function demo(x,y){
+      return x+y
+   }
+   demo()
+   ```
+   - Anonymous function
+   ```
+   let demo=function(x,y){
+    return x+y  
+    }
+   console.log(demo(3,4))   
+   ```
+   - Arrow Function
+   ```
+   let demo=(x,y) =>{
+      return x*y
+   }
+   console.log(demo(3,4))
+   ```
+   + for-of
+      - to get index values of an array
+   + for-of
+       - to get elements in an arrray
+
+   + forEach() --> (ES-5)
+   + map() --> (ES-6)
+
+### DOM
+
+      - Document Object Model
+      - Document
+      - history
+      - window
+      - navigator
+   + DOM methods
+      - `getElementById()`
+      - `getElementsByClassName()`
+      - `querySelector()`
+      - `innerText`
+      - `textContent`
+      - `append`
+      - `appendChild`
+      - `innerHTML`
+      - `setAttribute()`
+      - `classList`
+      - `style`
+      - `src`
+
+#### JSON
++ JavaScriptObjectNotation
+   - To exxchange information between client and server
+```
+{
+   "name":"Harshitha",
+   "age":"18",
+   "mobile":9346962459
+}
+```
+
++ Ajax call or Promises (Fetch API) or axios
+
 ### Animations
 
 
@@ -292,3 +357,5 @@ selector{
 - [contrast checker]()
 - [getbootstrap](getbootstrap.com)
 - [jasonlint](www.jasonlint.com)
+   - to validate
+- [jsonplaceholder] (https://jsonplaceholder.typicode.com/posts)
