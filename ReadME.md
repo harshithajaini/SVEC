@@ -214,9 +214,73 @@ selector{
    - md (medium devices >=768)
    - lg (large devices >=992)
    - xl (Extra large devices >=1140)
++ Modal
++ Table
+
+
+#### JavaScript
+
++ In 1995 'Brenden Eich' introduced javaScript (ES-262)
++ JavScript is loosely toupled dynamic language (text-based programming language)
++ It also provides OOPS concepts.
++ We can use in client-side and server-side (Node.js) for dynamic web applications.
++ To conitnue in a same block (Shift+Enter)
++ To check the data type(console.log(typeof()))
+- ECMA-Script (ES-6)
+   - let & const
+   - map ()
+   - arrow
+   - classes
+   - spread operator
+   - rest parameter
++ Datatypes
+   - Number
+   - BigInt (2^53-1)
+   - String
+   - Boolean
+   - Undefined
+   - Null
+   - Object
+   - Array
++ Variables
+   - var
+   - let
+   - const
+   - scope
+      - function level --> var
+      - block level --> let,const
+   - redefine --> var,let
+   - redeclare --> var
+
++ typeof() - to check the data type   
++ Object
+
++ Array
+
++ Alerts
++ To generate notification
+   - alert
+   - prompt (to take input from the user)
+   - confirm
 
 
 
++ console statements
+   - console.log()
+   - console.info()
+   - console.warn()
+   - console.error()
+
++ Spread Operator 
+   - it is used to change array elements from one array to another (swamp)
+   - ...variable
+
++ Rest parameter
+   + to handle function parameters
+   - ...parameter
+
+
++ Destructuring of arrays
 
 ### Animations
 
@@ -225,5 +289,6 @@ selector{
 #### Reference links
 - [FlatIcon]
 - [color codes]()
-- [contrast color]()
+- [contrast checker]()
 - [getbootstrap](getbootstrap.com)
+- [jasonlint](www.jasonlint.com)
