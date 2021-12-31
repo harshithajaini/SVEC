@@ -14,7 +14,7 @@
 - Python
 - PHP
 - C#
--  
+  
 ### Databases
 - MongoDb
 - Mysql
@@ -68,7 +68,7 @@
    - ol
 
 
-Task :
+### Task :
 =====
 - Audio
 - Video
@@ -92,7 +92,7 @@ selector{
 }
 '''
 
-### Selectors
+#### Selectors
 + Simple Selectors
    - Class Selector (.)
    - Grouping Selector (,)
@@ -334,7 +334,7 @@ selector{
       - `style`
       - `src`
 
-#### JSON
+### JSON
 + JavaScriptObjectNotation
    - To exxchange information between client and server
 ```
@@ -346,6 +346,53 @@ selector{
 ```
 
 + Ajax call or Promises (Fetch API) or axios
+
+### ReactJS
+##### ReactJS Features
+
++ It is a Library
++ It follows Component based Architecture
+   - Functional Component
+   - Class Component
+   - Pure Component
+   - Higher Order Comoponent
+
++ It provides Virtual DOM   
++ UniDirectional data flow
++ It provides JDX (JavaScript and XML)
++ Single Page Applications
+
++ Project Environment Setup
+      - [Download Visual Studio code](https://code.visualstudio.com/download)
+      - [Download Nodejs](https://nodejs.org/en/download/)
+      - install Nodejs and check versions of `node` and `npm`
+         - npm (node package manager)
+         - `node-v`
+         - `npm-v`
+      - `webpack` and `label`
+      - `create-react-app`
+         - `npm install create-react app`
+             - `create-react-app projectname`
+      - `npx create-react-app appname`
++ Indx.html
++ Index.js
++ App,js
+       + IndexPage
+         + Index.html
+            -nav.js
+            - body.js
+            - footer.js
+
+            + Home.js
+               - nav
+               - body
+               - footer
+         + loginPage   
+            - login.js
+         + Register
+         + About
+         + Contact
+
 
 ### Animations
 
