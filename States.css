@@ -1,0 +1,9 @@
+.demo{
+    /* margin: 20px; */
+    border: 2px solid red;
+    width: fit-content;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image:repeating-linear-gradient(yellow,orange)
+}
