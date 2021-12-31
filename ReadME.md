@@ -399,10 +399,10 @@ selector{
 
 
 #### Reference links
-- [FlatIcon]
+- [FlatIcon]()
 - [color codes]()
 - [contrast checker]()
 - [getbootstrap](getbootstrap.com)
 - [jasonlint](www.jasonlint.com)
    - to validate
-- [jsonplaceholder] (https://jsonplaceholder.typicode.com/posts)
+- [jsonplaceholder](https://jsonplaceholder.typicode.com/posts)
