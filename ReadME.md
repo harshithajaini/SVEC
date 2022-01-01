@@ -362,6 +362,79 @@ selector{
 + It provides JDX (JavaScript and XML)
 + Single Page Applications
 
+
++ Props
+
+   - to pass data from one component to another component we will use props
+   - Props are immutable
+
+   + UnionBank (Functional)
+      - AndhraBank (Functional)
+      - CorporationBank (Class)
+
++ States
+
+      - In react to maintain information we will use States
+      - We can maintain States in Class Component only (Before react 16.8 version)
+      - To take State in react try to create above render() method and inside of class component.
+      ```
+      constructor(){
+         super();
+         this.state={
+
+         }
+      }
+   ```
+   - to update the state change information in class component use `setState()` method
++ To update the information in class component we have to follow component life cycle methods
+      - `ComponentWillRecieveProps()`
+      - `componentWillMount`
+      - `componentDidMount`
+      - `shouldComponentUpdate`
+      - `componentWillUpdate`
+      - `componentDidUpdatw`
+      - `componentWillUnmount`
+      
+
+### Hooks
+
++ from react 16.8 Hooks are introduced.
+- To maintain information in functional component we can use hooks
+
+- Parent - child1 --> child2 --> child3
+- `useState()`
+- `useEffect()`
+- `useMemo()`
+- `useRef()`
+- `useContext()`
+
+
+#### List Rendering
+
+### Event Handling & Form Handling
+
+   - `onChange`
+   - `onSubmit`
+   - `preventDefault`
+
+   #### Routing in React
+   + To navigate (Route) from one component to another
+       - install react-router-dom package by using `npm install react-router-dom`
+       - `BrowserRouter`
+       - `Routes`
+       - `Route`
+       - `Link`
+       - `path`
+       - `element`
+      
+
+
+   + Redux
+
+       
+
+
+
 + Project Environment Setup
       - [Download Visual Studio code](https://code.visualstudio.com/download)
       - [Download Nodejs](https://nodejs.org/en/download/)
@@ -398,7 +471,7 @@ selector{
 
 
 
-#### Reference links
+### Reference links
 - [FlatIcon]()
 - [color codes]()
 - [contrast checker]()
