@@ -25,7 +25,7 @@ export default function Home() {
     function  Main() {
         return (
             <>
-            <h1>:: Home Page ::</h1>
+            <h1>:: Home Pages ::</h1>
             {/* <link>Login</link> */}
             <Link to="/login"><button>Login</button></Link>
             </>
