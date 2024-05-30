@@ -36,7 +36,7 @@ export default class FormRendering extends Component {
                     onChange={this.changeUserName}
                     />
                     <br></br>
-                    <label>Password:</label>
+                    <label>Password</label>
                     <input type="password"value={this.state.pwd}
                     onChange={this.changePwd}
                     />
